@@ -20,11 +20,12 @@ console.log(x+y);*/
 /*x = 5;
 y = 10;
 console.log(x+y);*/
-/*let name;
+let name;
 name = 'seiseibo';
 function namee(){
     document.getElementById('header').innerHTML = name ;
 }
+/*
 //let clas = 12, hobby = 'coading';
 //console.log(clas, hobby)
 function save(){
