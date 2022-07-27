@@ -6,3 +6,5 @@
 - var
 - comments
 - getElementByID
+- function
+- data types
